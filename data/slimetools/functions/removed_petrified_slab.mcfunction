@@ -1,0 +1,1 @@
+minecraft:clear @a minecraft:petrified_oak_slab

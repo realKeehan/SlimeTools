@@ -1,0 +1,1 @@
+execute as @e[tag=TARDIS] run tp @s[tag=TARDIS] ~ ~ ~ 45 0

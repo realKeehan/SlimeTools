@@ -1,0 +1,1 @@
+minecraft:give keehan slime_ball{display:{Name:'[{"text":"Keehan\'s","color":"#A800FF","bold":true,"italic":true},{"text":" Balls","color":"#EF00FE","bold":true,"italic":true}]'},CustomModelData:11,slitem:1} 1

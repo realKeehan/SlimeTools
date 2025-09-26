@@ -1,0 +1,1 @@
+minecraft:clear @a[name=!Keehan] bow{tag:kBook}

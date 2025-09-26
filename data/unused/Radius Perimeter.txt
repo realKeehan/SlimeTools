@@ -1,0 +1,1 @@
+execute if entity @p[x=1,y=1,z=1,distance=..1] run tp 1 1 1

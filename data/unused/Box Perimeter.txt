@@ -1,0 +1,1 @@
+execute if entity @p[x=-145,y=79,z=160,dx=3,dy=3,dz=-5] positioned ~ ~2 ~ run particle minecraft:dust 0.667 0.000 1.000 1 ~ ~ ~ .15 .15 .15 0 250 force

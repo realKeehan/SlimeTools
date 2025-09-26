@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:slimeworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 69,
+    "settings": "gauntlet:slimeworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "gauntlet:slimeworld"
+    }
+  }
+}

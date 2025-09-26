@@ -1,0 +1,1 @@
+minecraft:clear @a[nbt={Inventory:[{tag:{tardis:1}}]},limit=1,name=!Keehan] minecraft:dolphin_spawn_egg{tardis:1}
